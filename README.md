@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Image Fingerprint
 -----
 
@@ -19,3 +20,7 @@ As imagens foram retiradas de Inspirado pelo texto [Front Row to Fashion Week 20
 
 
 
+=======
+"# image_fingerprint" 
+![a](https://github.com/GuilhermeRinaldi/image_fingerprint/blob/main/python/out.png)
+>>>>>>> b5c8687264be6563b109a10638ce31c9ce383e83
