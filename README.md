@@ -14,6 +14,7 @@ O programa analisa a imagem fornecida, obtendo a moda dos valores de cada linha 
 ### Inspiração
 
 Inspirado pelo texto [Create Fashion Fingerprints with R](https://www.r-bloggers.com/2014/10/create-fashion-fingerprints-with-r/ "Create Fashion Fingerprints with R").
+![capa](https://user-images.githubusercontent.com/37752370/146698204-da95291d-2c65-43ff-8529-6632ce9d7851.png)
 
 ### créditos das imagens 
 
