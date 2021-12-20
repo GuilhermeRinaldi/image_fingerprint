@@ -1,6 +1,7 @@
-<<<<<<< HEAD
-# Image Fingerprint
+
+# Image Fingerprint 
 -----
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 [![capa](img/capa.png "capa")](https://www.nytimes.com/newsgraphics/2014/02/14/fashion-week-editors-picks/index.html "capa")
 
@@ -10,17 +11,13 @@ O programa analisa a imagem fornecida, obtendo a moda dos valores de cada linha 
 
 [![exemplo de corte](img/exemplo_de_corte.png "exemplo de corte")](https://www.nytimes.com/newsgraphics/2014/02/14/fashion-week-editors-picks/index.html "exemplo de corte")
 
-#### Inspiração
+### Inspiração
 
 Inspirado pelo texto [Create Fashion Fingerprints with R](https://www.r-bloggers.com/2014/10/create-fashion-fingerprints-with-r/ "Create Fashion Fingerprints with R").
 
-#### créditos das imagens 
+### créditos das imagens 
 
 As imagens foram retiradas de Inspirado pelo texto [Front Row to Fashion Week 2014](https://www.nytimes.com/newsgraphics/2014/02/14/fashion-week-editors-picks/index.html "Front Row to Fashion Week 2014")                  
 
 
 
-=======
-"# image_fingerprint" 
-![a](https://github.com/GuilhermeRinaldi/image_fingerprint/blob/main/python/out.png)
->>>>>>> b5c8687264be6563b109a10638ce31c9ce383e83
