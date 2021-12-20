@@ -17,7 +17,7 @@ Inspirado pelo texto [Create Fashion Fingerprints with R](https://www.r-bloggers
 
 ### créditos das imagens 
 
-As imagens foram retiradas de Inspirado pelo texto [Front Row to Fashion Week 2014](https://www.nytimes.com/newsgraphics/2014/02/14/fashion-week-editors-picks/index.html "Front Row to Fashion Week 2014")                  
+As imagens foram retiradas de [Front Row to Fashion Week 2014](https://www.nytimes.com/newsgraphics/2014/02/14/fashion-week-editors-picks/index.html "Front Row to Fashion Week 2014")                  
 
 
 
