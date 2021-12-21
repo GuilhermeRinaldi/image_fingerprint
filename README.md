@@ -1,7 +1,9 @@
 
 # Image Fingerprint 
+
+![](https://badgen.net/badge/python/3.8.8/blue?icon=v) ![](https://badgen.net/badge/R/3.6.1/blue?icon=v)
+
 -----
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 [![capa](img/capa.png "capa")](https://www.nytimes.com/newsgraphics/2014/02/14/fashion-week-editors-picks/index.html "capa")
 
