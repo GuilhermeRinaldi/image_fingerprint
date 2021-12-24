@@ -14,7 +14,7 @@
 - [Pré-requisitos](#pré-requisitos)
 - [Como usar](#como-usar)
 - [Inspiração](#inspiração)
-- [Crédito das imagens](#Crédito-das-imagens)
+- [Crédito das imagens](#crédito-das-imagens)
 - [Licença](#licença)
  
 
