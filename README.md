@@ -52,7 +52,6 @@ img = Image.open('name + .extension')
 ...
 out.save('name + .extension')
 ```
-**Para imagens no mesmo local do arquivo**
 
 Para R:
 ```R
